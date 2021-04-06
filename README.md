@@ -6,7 +6,7 @@ This project uses simple electromechanical lock, AVR ATmega 32a, RFID module NXP
 Project was created with Atmel Studio 7.0.
 
 ## Sources
-This code is partially based on library created by [@miguelbalboa](https://github.com/miguelbalboa/rfid) (release v.1.4.8)
+This code is partially based on library created by [@miguelbalboa](https://github.com/miguelbalboa/rfid) (release v.1.4.8).
 It was created with partial involvement of one more person for university purposes.
 
 ## How it works
