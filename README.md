@@ -13,6 +13,8 @@ After successful setup the user is supposed to put their RFID card of choice nea
 
 Microcontroller and RFID module communicate through SPI (Serial Peripheral Interface). Microcontroller and LCD screen communicate through IIC (Inter-Integrated Circuit)/TWI (Two-Wire Interface).
 
+Working prototype can be seen [here](https://youtu.be/Nk5CqEz8z4s) and [here](https://youtu.be/4OXVpa1z-Do).
+
 To do:
 * figure out security issues
 * find a way to use portable battery
