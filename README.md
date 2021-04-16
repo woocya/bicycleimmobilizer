@@ -17,6 +17,7 @@ Microcontroller and RFID module communicate through SPI (Serial Peripheral Inter
 Working prototype can be seen [here](https://youtu.be/Nk5CqEz8z4s) and [here](https://youtu.be/4OXVpa1z-Do).
 
 To do:
+* clean up the code
 * figure out security issues
 * find a way to use portable battery
 
